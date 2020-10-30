@@ -11,6 +11,11 @@ function sayHello() {
 }
 sayHello();
 
+function Holidays() {
+    console.log("Happy Holiday's");
+}
+Holidays();
+
 // Notice that after the function name, a set of parentheses is always required. This is where you will pass any data into the function, if you need to. If you don't need to pass in any data, then you will still include a set of empty parentheses.
 // After the parentheses is a set of curly braces that surround the code block to be executed when the function is called. You do not need a semicolon following the ending curly brace.
 // If you save and run this (if you have Autosave turned on in the Settings, it should automatically save and run for you), you should notice that nothing gets logged to the console. Why?
